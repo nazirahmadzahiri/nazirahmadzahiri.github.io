@@ -1,0 +1,350 @@
+/* Skills section */
+
+#SkillBox1 {
+  font-size: 20px;
+  font-family: "Indie Flower", cursive;
+  width: 95%;
+  height: auto;
+  margin: 40px auto;
+  background-color: #fff;
+  border: 1px solid #cdcdcd;
+  padding: 10px;
+  border-radius: 20px;
+  -o-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+#SkillBox img1 {
+  width: 20%;
+  height: 10%;
+  margin: auto 35%;
+  padding: 10px;
+}
+.SkillBar1 {
+  width: 100%;
+  height: 50px;
+  position: relative;
+  background: rgba(17, 17, 17, 0.3);
+  margin: 20px auto;
+}
+#Skill-HTML1 {
+  width: 90%;
+  animation: Animate-HTML 4s;
+  -webkit-animation: Animate-HTML 4s;
+  -moz-animation: Animate-HTML 4s;
+  -o-animation: Animate-HTML 4s;
+  height: 50px;
+  position: absolute;
+  background-color: #ea8564;
+}
+@keyframes Animate-HTML {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 100%;
+  }
+}
+@-webkit-keyframes Animate-HTML {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 100%;
+  }
+}
+@-moz-keyframes Animate-HTML {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 100%;
+  }
+}
+@-o-keyframes Animate-HTML {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 100%;
+  }
+}
+#Skill-CSS1 {
+  animation: Animate-CSS 5s;
+  -webkit-animation: Animate-CSS 5s;
+  -moz-animation: Animate-CSS 5s;
+  -o-animation: Animate-CSS 5s;
+  width: 80%;
+  height: 50px;
+  position: absolute;
+  background-color: #55a69f;
+}
+@keyframes Animate-CSS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 80%;
+  }
+}
+@-webkit-keyframes Animate-CSS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 80%;
+  }
+}
+@-moz-keyframes Animate-CSS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 80%;
+  }
+}
+@-o-keyframes Animate-CSS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 80%;
+  }
+}
+#Skill-JavaScript {
+  animation: Animate-JavaScript 5s;
+  -webkit-animation: Animate-JavaScript 5s;
+  -moz-animation: Animate-JavaScript 5s;
+  -o-animation: Animate-JavaScript 5s;
+  width: 85%;
+  height: 50px;
+  position: absolute;
+  background-color: #190953;
+}
+@keyframes Animate-JavaScript {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 72%;
+  }
+}
+@-webkit-keyframes Animate-JavaScript {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 72%;
+  }
+}
+@-moz-keyframes Animate-JavaScript {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 72%;
+  }
+}
+@-o-keyframes Animate-JavaScript {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 72%;
+  }
+}
+#Skill-React {
+  animation: Animate-React 4s;
+  -webkit-animation: Animate-React 4s;
+  -moz-animation: Animate-React 4s;
+  -o-animation: Animate-React 4s;
+  width: 70%;
+  height: 50px;
+  position: absolute;
+  background-color: #c44e45;
+}
+@keyframes Animate-React {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 61%;
+  }
+}
+@-webkit-keyframes Animate-React {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 61%;
+  }
+}
+@-moz-keyframes Animate-React {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 61%;
+  }
+}
+@-o-keyframes Animate-React {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 61%;
+  }
+}
+
+#Skill-ReactNative {
+  animation: Animate-ReactNative 4s;
+  -webkit-animation: Animate-ReactNative 4s;
+  -moz-animation: Animate-ReactNative 4s;
+  -o-animation: Animate-ReactNative 4s;
+  width: 55%;
+  height: 50px;
+  position: absolute;
+  background-color: #8e930c;
+}
+@keyframes Animate-ReactNative {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 55%;
+  }
+}
+@-webkit-keyframes Animate-ReactNative {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 55%;
+  }
+}
+@-moz-keyframes Animate-ReactNative {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 55%;
+  }
+}
+@-o-keyframes Animate-ReactNative {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 55%;
+  }
+}
+#Skill-AngularJS {
+  animation: Animate-AngularJS 4s;
+  -webkit-animation: Animate-AngularJS 4s;
+  -moz-animation: Animate-AngularJS 4s;
+  -o-animation: Animate-AngularJS 4s;
+  width: 50%;
+  height: 50px;
+  position: absolute;
+  background-color: #404041;
+}
+@keyframes Animate-AngularJS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+@-webkit-keyframes Animate-AngularJS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+@-moz-keyframes Animate-AngularJS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+@-o-keyframes Animate-AngularJS {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+
+#Skill-Vue {
+  animation: Animate-Vue 4s;
+  -webkit-animation: Animate-Vue 4s;
+  -moz-animation: Animate-Vue 4s;
+  -o-animation: Animate-Vue 4s;
+  width: 30%;
+  height: 50px;
+  position: absolute;
+  background-color: #252707;
+}
+@keyframes Animate-Vue {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+@-webkit-keyframes Animate-Vue {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+@-moz-keyframes Animate-Vue {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+@-o-keyframes Animate-Vue {
+  from {
+    width: 10px;
+  }
+  to {
+    width: 40%;
+  }
+}
+
+.Skill-Area1 {
+  z-index: 1;
+  float: left;
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 15px;
+  text-shadow: none;
+  color: #fff;
+  font-family: Lato-Regular, sans-serif;
+  font-size: 18px;
+}
+.PercentText1 {
+  z-index: 3;
+  position: relative;
+  padding-right: 15px;
+  margin-top: 15px;
+  float: right;
+  text-shadow: none;
+  color: #fff;
+  font-family: Lato-Regular, sans-serif;
+  font-size: 18px;
+}
+/*End Skills section */
